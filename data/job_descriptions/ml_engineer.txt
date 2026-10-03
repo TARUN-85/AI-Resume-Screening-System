@@ -1,0 +1,26 @@
+Job Title: Machine Learning Engineer
+
+Job Summary:
+We are hiring a Machine Learning Engineer with 3+ years of experience to design,
+train and deploy production-grade ML systems.
+
+Responsibilities:
+- Design and train machine learning and deep learning models
+- Build scalable inference APIs using FastAPI
+- Deploy models using Docker on AWS or GCP
+- Collaborate with data scientists to productionize research code
+- Monitor model performance in production
+
+Requirements:
+- 3+ years of experience in machine learning engineering
+- Strong proficiency in Python
+- Experience with scikit-learn, TensorFlow or PyTorch
+- Experience with NLP and deep learning
+- Experience with FastAPI or Flask for API development
+- Experience with Docker and cloud platforms (AWS/GCP/Azure)
+- Strong understanding of SQL
+- Experience with Git and CI/CD
+
+Nice to have:
+- Experience with PySpark
+- Familiarity with Power BI for reporting

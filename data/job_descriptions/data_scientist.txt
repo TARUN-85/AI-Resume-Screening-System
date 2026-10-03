@@ -1,0 +1,31 @@
+Job Title: Data Scientist
+
+Job Summary:
+We are looking for a Data Scientist with 3+ years of experience to join our analytics team.
+The ideal candidate will build predictive models, analyze large datasets, and communicate
+insights to business stakeholders.
+
+Responsibilities:
+- Analyze large structured and unstructured datasets to extract actionable insights
+- Build, validate and deploy machine learning models
+- Perform feature engineering and statistical analysis
+- Collaborate with engineering teams to productionize models
+- Present findings to non-technical stakeholders
+
+Requirements:
+- 3+ years of experience in data science or machine learning
+- Strong proficiency in Python, SQL
+- Hands-on experience with pandas, numpy, scikit-learn
+- Experience with machine learning, deep learning and NLP
+- Familiarity with TensorFlow or PyTorch is a plus
+- Experience with AWS or Azure cloud platforms
+- Experience building and consuming REST APIs using FastAPI
+- Knowledge of Docker for containerization
+- Experience with Git for version control
+- Strong communication and problem-solving skills
+- Bachelor's degree in Computer Science, Statistics or a related field
+
+Nice to have:
+- Experience with Power BI or Tableau for data visualization
+- Experience with PySpark for big data processing
+- Knowledge of Scikit-learn Pipelines

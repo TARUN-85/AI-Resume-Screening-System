@@ -1,0 +1,27 @@
+Job Title: Data Engineer
+
+Job Summary:
+We are seeking a Data Engineer with 4+ years of experience to design and maintain
+scalable data pipelines.
+
+Responsibilities:
+- Design, build and maintain ETL/ELT pipelines
+- Optimize SQL queries and database performance
+- Work with PySpark for large-scale data processing
+- Deploy data pipelines on AWS or GCP
+- Ensure data quality and reliability
+
+Requirements:
+- 4+ years of experience in data engineering
+- Strong proficiency in Python and SQL
+- Hands-on experience with PySpark and Spark
+- Experience with AWS, GCP or Azure
+- Experience with Docker and CI/CD pipelines
+- Familiarity with Git and version control
+- Knowledge of data warehousing concepts
+- Experience with Airflow or similar orchestration tools is a plus
+
+Nice to have:
+- Experience with Power BI or Tableau
+- Exposure to machine learning workflows
+- Knowledge of FastAPI for building internal tools

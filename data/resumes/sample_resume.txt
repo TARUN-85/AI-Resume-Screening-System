@@ -1,0 +1,94 @@
+TARUN KUMAR RAGHAV
+DATA SCIENTIST | MACHINE LEARNING | AI / GENAI | DATA ENGINEERING
+Thane, India | raghavtarunkumar@gmail.com | +91-8286572865 | LinkedIn | GitHub | LeetCode | HackerRank
+PROFESSIONAL SUMMARY
+Data professional with 3+ years in banking, fintech and loyalty-rewards analytics, combining a strong data engineering base
+(Python, SQL, PySpark, ETL) with applied data science: customer feature engineering, EDA, RFM segmentation and scikit-learn
+regression/classification. Prepares ML-ready datasets from transaction, points and redemption data for segmentation,
+predictive-modelling and cross-selling use cases. Built an NLP resume-screening API (TF-IDF, FastAPI) and a RAG financialdocument Q&A app (LangChain, FAISS). Promoted to Senior Software Engineer for end-to-end pipeline ownership.
+TECHNICAL SKILLS
+Programming: Python, SQL
+Data Science & ML: Statistics, EDA, Feature Engineering, Regression, Classification, Clustering, Model Evaluation, CrossValidation, Predictive Modelling, RFM Segmentation, Customer Analytics
+NLP & GenAI: Prompt Engineering, RAG, LangChain, FAISS, Embeddings, Semantic Search, LLM APIs, TF-IDF, Cosine Similarity
+Python Libraries: Pandas, NumPy, Scikit-learn, PySpark, Spark SQL, Matplotlib, Seaborn
+Data Engineering: ETL/ELT, Data Pipelines, Data Validation, Data Transformation, Data Modelling, SFTP, SSIS, Azure Data
+Factory
+Databases: PostgreSQL, MySQL, SQL Server, MongoDB
+BI & Analytics: Power BI, DAX, SSRS, Advanced Excel, KPI Development, Statistical Analysis
+APIs & Tools: FastAPI, Flask, SQLAlchemy, REST APIs, Streamlit, Git, GitHub, Postman, Google Colab
+Domain: Banking, Fintech, Loyalty & Rewards, Transaction Analytics, Points & Redemption
+PROFESSIONAL EXPERIENCE
+Loylty Rewardz Thane, India
+Senior Software Engineer Apr 2026 – Present
+• Promoted from Software Engineer (Apr 2026) for consistent delivery of scalable data pipelines and automation initiatives
+supporting banking and loyalty analytics.
+• Engineer customer-level behavioural features from transaction, partner, category, MCC, points, redemption and
+geographic data to support customer segmentation, predictive modelling and cross-selling use cases.
+• Prepare ML-ready datasets and apply EDA and regression/classification fundamentals to customer-behaviour and
+redemption-opportunity analysis, supporting predictive-modelling and recommendation use cases.
+• Lead design and development of Python, SQL and PySpark solutions that consolidate multi-bank transaction, customer,
+account, points, redemption and store data into a Customer 360 foundation for analytics and ML workflows.
+• Own data pipeline architecture from SFTP ingestion through validation, transformation and data modelling to a KPI layer
+used for reporting and business decision support.
+• Drive data-quality practices — validation rules, reconciliation checks, merchant/partner/MCC standardization and live-data
+null handling — so downstream features and KPIs stay reliable.
+• Mentor engineers on ETL design, data validation and reporting automation, and partner with business stakeholders to
+translate loyalty, redemption and partner-engagement goals into data solutions.
+Software Engineer Mar 2025 – Apr 2026
+• Extracted, transformed and structured large-scale banking datasets with SQL (MySQL, PostgreSQL), enabling feature
+engineering and analytical dataset creation for machine learning workflows.
+• Built scalable Python (Pandas, NumPy) and PySpark workflows for large transactional data, improving the efficiency of data
+preparation for analysis and modelling.
+• Developed SSIS and SFTP pipelines for reliable ingestion of high-quality data used for EDA, reporting and ML use cases.
+• Standardized and validated transaction and customer data: regex-based city normalization (e.g., Mumbai / Bombay /
+Mum), city-to-state mapping, business-rule geographic imputation, and merchant, partner, corporate and MCC
+standardization.
+• Performed EDA in Python and Excel to identify trends, anomalies and behavioural patterns in customer and transaction
+data, supporting data-driven business decisions.
+• Applied regression/classification concepts to business problems and prepared datasets for predictive-modelling use cases
+such as customer-behaviour analysis.
+• Designed Power BI and Excel dashboards visualizing KPIs and insights for stakeholders, enabling data-driven strategy
+decisions.
+• Conducted RCA and data validation with SQL and Python to improve data quality and downstream accuracy; built
+Flask/SQLAlchemy automation tools and APIs that reduced manual data-processing effort.
+Tech Stack: Python (Pandas, NumPy), SQL (MySQL, PostgreSQL), PySpark, SSIS, SFTP, Flask, SQLAlchemy, MongoDB, Power BI, Excel
+Creative Information Technology, Inc. (CITI)
+Data Analyst Jun 2023 – Mar 2025
+• Executed data cleaning and transformation in Azure Data Factory, improving data accuracy by 30% for business reporting.
+• Developed Python (Pandas) scripts for file processing, cutting data processing time by 40% and boosting workflow
+efficiency.
+• Wrote and optimized daily MSSQL queries for reporting, improving management decision-making speed by 25%.
+• Conducted data validation and reporting that achieved a 20% reduction in data-related issues reported by business users;
+used advanced Excel for data cleaning and presentation, reducing manual reporting effort by 35%.
+• Designed interactive Power BI dashboards for 50+ business users and resolved 1,000+ dashboard and data-request support
+tickets in close collaboration with stakeholders.
+Tech Stack: MSSQL, Azure Data Factory, Python (Pandas), Power BI, Excel, Postman
+SELECTED DATA SCIENCE / ML / AI PROJECTS
+FinDoc AI — GenAI Financial Document Intelligence System | Python, Streamlit, LangChain, FAISS, LLM APIs
+• Built a Retrieval-Augmented Generation (RAG) application enabling natural-language question answering over financial and
+business documents.
+• Developed the end-to-end pipeline: PDF extraction, text chunking, embedding generation, FAISS vector indexing, semantic
+retrieval and LLM-based response generation.
+• Implemented source-aware answers with document/page references, grounding responses in retrieved context to reduce
+hallucinations; added conversational querying and document summarization.
+AI Resume Screening System (Personal Project) | Python, NLP, Scikit-learn, FastAPI
+• Built an NLP-based resume-screening tool using TF-IDF vectorization and cosine similarity to generate ATS-style candidate
+match scores.
+• Exposed FastAPI endpoints for resume upload, parsing and scoring, delivering the tool as an end-to-end API service.
+Bank KPI & Analytics Dashboard | PostgreSQL, SQL, Power BI, DAX, Excel
+• Delivered an end-to-end customer analytics solution by integrating cleaned month-on-month (MoM) banking data into
+PostgreSQL, with SQL transformations, data modelling and DAX measures feeding interactive Power BI dashboards.
+• Built KPI, RFM customer segmentation, cross-selling and advanced statistical dashboards to uncover customer behaviour,
+spending patterns and revenue-growth opportunities, with drill-through views for executive monitoring and trend analysis.
+Partner Health WoW & MoM Reporting Automation | Python, PostgreSQL, SSRS, SMTP
+• Built an end-to-end automated reporting pipeline (PostgreSQL dynamic SQL, SSRS, Python with PyMuPDF and SMTP) that
+prepares week-on-week (WoW) and month-on-month (MoM) partner health metrics and emails dashboard-style reports
+to stakeholders, improving reporting efficiency and earning organizational recognition.
+EDUCATION
+Bachelor of Engineering (BE / B.Tech) — Mumbai University 2020
+CERTIFICATIONS
+• Scaler — Data Science & Machine Learning (DSML)
+• Power BI Essentials: Power BI Training and Exam Prep
+ACHIEVEMENTS
+• Promoted to Senior Software Engineer at Loylty Rewardz (Apr 2026) in recognition of consistent performance and delivery.
+• Received organizational appreciation for automating the Partner Health rep

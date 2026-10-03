@@ -1,0 +1,23 @@
+Ankit Joshi
+Software Developer | Mumbai, India
+
+Summary:
+Software Developer with 4 years of experience building backend web applications using
+Java and Spring Boot. Limited exposure to data science or machine learning.
+
+Experience:
+Software Developer, WebSuite Technologies (Mar 2021 - Present)
+- Built REST APIs using Java and Spring Boot
+- Worked with MySQL databases for application data storage
+- Used Git for version control and Jenkins for CI/CD
+- Deployed applications using Docker on internal servers
+
+Junior Developer, CodeBase Solutions (Jun 2020 - Feb 2021)
+- Developed internal tools using Java
+- Wrote SQL queries for reporting features
+
+Skills:
+Java, Spring Boot, MySQL, SQL, Docker, Git, Jenkins, REST APIs
+
+Education:
+B.E in Information Technology, 2020

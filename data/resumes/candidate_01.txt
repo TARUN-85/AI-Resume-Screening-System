@@ -1,0 +1,28 @@
+Priya Sharma
+Data Scientist | Bengaluru, India
+
+Summary:
+Data Scientist with 3.5 years of experience building machine learning and deep learning
+models for retail analytics. Skilled in Python, SQL and NLP with hands-on experience
+deploying models as REST APIs.
+
+Experience:
+Data Scientist, RetailTech Analytics (Jan 2023 - Present)
+- Built predictive machine learning models using Python and scikit-learn
+- Performed feature engineering and statistical analysis on large datasets using pandas and numpy
+- Developed NLP pipelines for customer review classification
+- Deployed models using FastAPI and Docker on AWS
+- Used Git for version control and collaborated with cross-functional teams
+
+Data Analyst, MetricsWorks (Jun 2021 - Dec 2022)
+- Analyzed structured and unstructured datasets using SQL and Python
+- Built dashboards using Power BI for business stakeholders
+- Worked with PySpark on large-scale data processing tasks
+
+Skills:
+Python, SQL, pandas, numpy, scikit-learn, TensorFlow, PyTorch, machine learning,
+deep learning, NLP, FastAPI, Docker, AWS, Azure, PySpark, Power BI, Tableau, Git,
+statistics
+
+Education:
+B.Tech in Computer Science, 2021

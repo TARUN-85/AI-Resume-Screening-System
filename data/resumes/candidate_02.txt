@@ -1,0 +1,23 @@
+Rahul Verma
+Data Analyst | Pune, India
+
+Summary:
+Data Analyst with 2 years of experience in SQL-based reporting and basic Python scripting.
+Some exposure to machine learning concepts through academic projects.
+
+Experience:
+Data Analyst, InsightWorks (Aug 2023 - Present)
+- Wrote SQL queries to extract and analyze business data
+- Built reports and dashboards using Power BI
+- Automated data cleaning tasks using Python and pandas
+- Assisted senior data scientists with data preparation for machine learning experiments
+
+Junior Analyst, Bright Data Co. (Jul 2022 - Jul 2023)
+- Maintained Excel-based reports for operations team
+- Learned basic SQL and Python during this role
+
+Skills:
+Python, SQL, pandas, Power BI, Excel, basic machine learning, Git
+
+Education:
+B.Sc in Statistics, 2022
